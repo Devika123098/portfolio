@@ -1,6 +1,6 @@
 import React from 'react'
 import { Briefcase, Code, User} from 'lucide-react'
-import cv from "../../public/Devika-Dileep.pdf.pdf"
+import cv from "../../public/myCV.pdf"
 
 export default function AboutSection() {
   return (
